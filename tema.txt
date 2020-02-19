@@ -1,0 +1,6 @@
+Moara cu noroc;150;Ioan Slavici;atlas;
+Alba ca zapada;26;Ion Creanga;revista;
+Alexandru Lapusneanul;100;Costache Negruzzi;atlas;
+Enigma Otiliei;96;George Calinescu;revista;
+Morometii;85;Marin Preda;revista;
+
